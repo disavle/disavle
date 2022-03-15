@@ -9,9 +9,6 @@
 <a href="https://instagram.com/disavle">
   <img align="left" alt="Disavle's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
 </a>
-<a href="https://open.spotify.com/user/disavle?si=6fa57cc16bd849c5">
-  <img align="left" alt="Disavle's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 <a href="https://twitter.com/disavle">
   <img align="left" alt="Disavle | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
