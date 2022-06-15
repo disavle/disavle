@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" hight="10px">  
+### Hi there <img width="35" height="35" src="https://media.giphy.com/media/ewh4ipgPw1bBVj4HI5/giphy.gif" />  
 
 <a href = "mailto: ddisavle@gmail.com">
   <img align="left" alt="Disavle's email" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" />
