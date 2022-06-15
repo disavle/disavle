@@ -12,6 +12,9 @@
 <a href="https://twitter.com/disavle">
   <img align="left" alt="Disavle | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://gitlab.com/disavle">
+  <img align="left" alt="Disavle | GitLab" width="22px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=disavle.disavle&right_color=red)
 <br />
