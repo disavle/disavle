@@ -30,4 +30,4 @@ Hi, I'm Dima, a system analyst and iOS developer. I learn a lot from the open-so
 **Github stats:**  
 
 <a align="left"> <img src="https://github-readme-stats.vercel.app/api?username=disavle&show_icons=true&theme=dark&icon_color=FF5C53&title_color=E03434&border_color=30363D&text_color=C9D1D9" alt="disavle" />
-<a align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=disavle&show_icons=true&theme=dark&icon_color=FF5C53&title_color=E03434&border_color=30363D&text_color=C9D1D9" alt="disavle" />
+<a align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=disavle&show_icons=true&layout=compact&theme=dark&icon_color=FF5C53&title_color=E03434&border_color=30363D&text_color=C9D1D9" alt="disavle" />
