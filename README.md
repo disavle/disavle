@@ -26,6 +26,9 @@ Hi, I'm Dima, a system analyst and iOS developer. I learn a lot from the open-so
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1LiqzTNjYxCLe0nwHGaUEefYZa_OVHpoCKO9_l2zVJoTv21grfDk-ZwFRq4NTzhYMHqU&usqp=CAU"></code>
 
 **Github stats:**  
 
