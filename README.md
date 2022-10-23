@@ -19,7 +19,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=disavle.disavle&right_color=red)
 <br />
 
-Hi, I'm Dima, a system analyst and iOS developer. I learn a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Hi, I'm Dima, an iOS developer. I learn a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 **Languages and tools:**  
 
