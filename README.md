@@ -16,7 +16,7 @@
   <img align="left" alt="Disavle | GitLab" width="22px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" />
 </a>
 
-<br />
+<br></br>
 
 Hi, I'm Dima, an iOS developer. I learn a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
