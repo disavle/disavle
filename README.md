@@ -3,14 +3,8 @@
 <a href = "mailto: ddisavle@gmail.com">
   <img align="left" alt="Disavle's email" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" />
 </a>
-<a href="https://hh.ru/resume/a92caa95ff08c53d4b0039ed1f7a7777397850">
-  <img align="left" alt="Disavle's HH" width="22px" src="https://i-dev.hh.ru/images/logos/hh-red-large.svg" />
-</a>
 <a href="https://instagram.com/disavle">
   <img align="left" alt="Disavle's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
-</a>
-<a href="https://twitter.com/disavle">
-  <img align="left" alt="Disavle | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://gitlab.com/disavle">
   <img align="left" alt="Disavle | GitLab" width="22px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" />
