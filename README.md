@@ -1,7 +1,10 @@
 ### Hi there <img width="35" height="35" src="https://media.giphy.com/media/ewh4ipgPw1bBVj4HI5/giphy.gif" />  
 
+<a href="http://linkedin.com/in/dmitry-savelev-b30a49269">
+  <img align="left" alt="Disavle's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+</a>
 <a href = "mailto: ddisavle@gmail.com">
-  <img align="left" alt="Disavle's email" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" />
+  <img align="left" alt="Disavle's email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" />
 </a>
 <a href="https://instagram.com/disavle">
   <img align="left" alt="Disavle's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
