@@ -1,6 +1,6 @@
 ### Hi there <img width="35" height="35" src="https://media.giphy.com/media/ewh4ipgPw1bBVj4HI5/giphy.gif" />  
 
-<a href="http://linkedin.com/in/dmitry-savelev-b30a49269">
+<a href="https://www.linkedin.com/in/disavle/">
   <img align="left" alt="Disavle's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href = "mailto: ddisavle@gmail.com">
